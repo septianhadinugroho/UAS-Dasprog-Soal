@@ -8,6 +8,9 @@
 Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya baris dan kolom lalu menukar kolom jadi baris dan baris jadi kolom (transpose). Kedua, buat pada array 2 dimensi, angka angka diinputkan lalu menampilkan bilangan yang habis dibagi 3, 5, dan 7.
 	
 ## Source Code
+ ```c++
+ code
+```
 	#include <iostream>
 	using namespace std;
 
