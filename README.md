@@ -10,7 +10,6 @@ Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya bar
 ## Source Code
  ```c++
  code
-```
 	#include <iostream>
 	using namespace std;
 
@@ -78,6 +77,7 @@ Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya bar
 		}
 		return 0;
 	}
+```
 
 ## Output
 ![UAS Dasprog](https://github.com/septianhadinugroho/UAS-Dasprog-Soal/blob/main/uas%20dasprog.PNG)
