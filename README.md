@@ -10,7 +10,7 @@
 
 #include <iostream>
 using namespace std;
-
+	
 int main()
 {
 	int A[50][50];
