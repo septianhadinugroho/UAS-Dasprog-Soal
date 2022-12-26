@@ -7,6 +7,7 @@
 ## Deskripsi Umum
 
 ## Source Code
+
 #include <iostream>
 using namespace std;
 
@@ -75,6 +76,7 @@ int main()
 	return 0;
 }
 ## Output
+
 ===============================
 Nama     : Septian Hadi Nugroho
 NIM      : 1227050122
