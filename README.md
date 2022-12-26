@@ -5,7 +5,7 @@
 <br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya baris dan kolom lalu meunkar kolom jadi baris dan baris jadi kolom (transpose). Kedua, buat pada array 2 dimensi, angka angka diinputkan lalu menampilkan bilangan yang habis dibagi 3, 5, dan 7.
+Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya baris dan kolom lalu menukar kolom jadi baris dan baris jadi kolom (transpose). Kedua, buat pada array 2 dimensi, angka angka diinputkan lalu menampilkan bilangan yang habis dibagi 3, 5, dan 7.
 	
 ## Source Code
 	#include <iostream>
