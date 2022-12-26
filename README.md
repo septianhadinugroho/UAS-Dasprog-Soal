@@ -9,7 +9,7 @@ Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya bar
 	
 ## Source Code
  ```c++
- code
+ 
 	#include <iostream>
 	using namespace std;
 
