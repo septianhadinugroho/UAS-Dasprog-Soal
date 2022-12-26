@@ -77,4 +77,4 @@ Di dalam repository ini terdapat 2 program. Pertama, program input banyaknya bar
 	}
 
 ## Output
-! [UAS Dasprog](https://github.com/septianhadinugroho/UAS-Dasprog-Soal/blob/main/uas%20dasprog.PNG)
+![UAS Dasprog](https://github.com/septianhadinugroho/UAS-Dasprog-Soal/blob/main/uas%20dasprog.PNG)
