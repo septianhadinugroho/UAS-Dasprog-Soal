@@ -62,13 +62,13 @@
 	    {
 		for (j=0; j<=kolom-1; j++)
 		{
-			if (A[i][j] %3 == 0 && A[j][i] %5 == 0 && A[j][i] %7 == 0)
+			if (A[j][i] %3 == 0 && A[j][i] %5 == 0 && A[j][i] %7 == 0)
 			{
-				cout << A[i][j] << " adalah angka yang habis dibagi 3, 5 dan 7" << endl;
+				cout << A[j][i] << " adalah angka yang habis dibagi 3, 5 dan 7" << endl;
 				}
 				else
 				{
-					cout << A[i][j] << " adalah angka yang tidak habis dibagi 3, 5 dan 7" << endl;
+					cout << A[j][i] << " adalah angka yang tidak habis dibagi 3, 5 dan 7" << endl;
 				}
 			}
 		}
